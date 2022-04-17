@@ -1,0 +1,1 @@
+{"Storage": {"name": "bucket", "type": "S3", "advanced": ["securite_group", "access_policy", "vpn"]}, "Compute": {"name": "test", "type": "ec2", "advanced": false}, "metadata": {"Project_name": "test"}}

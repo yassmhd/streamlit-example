@@ -1,6 +1,9 @@
-# Welcome to Streamlit!
+## MultiCloudckocking!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+[![Open in Streamlit][share_badge]][share_link] [![GitHub][github_badge]][github_link]
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+[share_badge]: https://static.streamlit.io/badges/streamlit_badge_black_white.svg
+[share_link]: https://share.streamlit.io/
+
+[github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
+[github_link]: https://github.com/multi-cloud-dyz
